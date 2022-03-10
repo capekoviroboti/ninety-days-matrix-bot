@@ -1,0 +1,7 @@
+maubot: 0.1.0
+id: xyz.maubot.ninetydays
+version: 0.0.1
+license: MIT
+modules:
+- ninety_days
+main_class: NinetyDaysBot
